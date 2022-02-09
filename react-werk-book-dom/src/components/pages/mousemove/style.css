@@ -1,0 +1,23 @@
+.red-box {
+    height: 400px;
+    width: 400px;
+    background-color: #ef8989;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.red-box:hover .cord{
+    visibility: visible;
+}
+
+.cord {
+    font-size: large;
+    visibility: hidden;
+}
+
+h1, h3 {
+    text-align: center;
+}

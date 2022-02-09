@@ -1,0 +1,56 @@
+.text-white {
+    color: white;
+}
+
+.background-pink {
+    background-color: pink;
+}
+
+.flex {
+    display: flex
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.mb-2 {
+    margin-bottom: .5rem;
+}
+.mt-2 {
+    margin-top: .5rem;
+}
+.mb-4 {
+    margin-bottom: 1rem;
+}
+.mt-4 {
+    margin-top: 1rem;
+}
+.mb-6 {
+    margin-bottom: 1.5rem;
+  }
+.pt-4 {
+    padding-top: 1rem;
+}
+.pb-1 {
+    padding-bottom: .25rem;
+}
+.grid-container {
+    display: grid;
+    column-gap: 1rem;
+    grid-template-columns: auto auto auto auto auto auto;
+    text-align: center;
+    align-items: center;
+}
+
+.grid-item {
+    display:flex;
+    flex-direction: column;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    font-weight:bold;
+}

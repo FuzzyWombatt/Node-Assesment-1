@@ -1,0 +1,12 @@
+.text-vio-red {
+    color: mediumvioletred
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-size: 12rem;
+    justify-content: center;
+}
